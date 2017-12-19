@@ -1,0 +1,1 @@
+import "../staticStyle/antd-theme-config.less";   // 用于覆盖上面定义的变量

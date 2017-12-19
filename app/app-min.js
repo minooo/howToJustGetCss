@@ -1,0 +1,1 @@
+import "../staticStyle/size.scss"
